@@ -24,14 +24,14 @@
 .xbox .trigger.left{ 
     height: 889px;
     width: 1000px;
-    background: url(L2.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/819615701190967316/L2.png);
     position: absolute;
     background-repeat:no-repeat;
 }
 .xbox .trigger.right{
     height: 889px;
     width: 1000px;
-    background: url(R2.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/819615704109285396/R2.png);
     position: absolute;
     background-repeat:no-repeat;
 }
