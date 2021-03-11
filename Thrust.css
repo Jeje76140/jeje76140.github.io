@@ -44,14 +44,14 @@ opacity: 0;
 .custom .bumper.right{
     height: 889px;
     width: 1000px;
-    background: url(R1.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/819615703208165426/R1.png);
     position: absolute;
     background-repeat:no-repeat;
 }
 .custom .bumper.left{
     height: 889px;
     width: 1000px;
-    background: url(L1.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/819615700460634142/L1.png);
     position: absolute;
     background-repeat:no-repeat;
 }
@@ -76,7 +76,7 @@ opacity: 0;
     width: 1000px;
     left: -291px;
     top: -250px;
-    background: url(Share.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/819676031676973106/Share.png);
     position: absolute;
     opacity: 1;
 } 
@@ -85,7 +85,7 @@ opacity: 0;
     width: 1000px;
     left: -291px;
     top: -250px;
-    background: url(Options.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/819676280340480080/Options.png);
     opacity: 1;
 }
 .custom .abxy{
@@ -99,8 +99,8 @@ opacity: 0;
     background-position-y: -00px;
     margin-top: 0px;
 }
-.custom .a.pressed{ /* X on PS4*/
-    background: url(X.png); 
+.custom .a.pressed{ 
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/819677245534371878/A.png); 
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
