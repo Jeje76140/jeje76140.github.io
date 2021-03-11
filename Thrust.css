@@ -1,12 +1,12 @@
 /*BEGIN THRUSTMASTER XBOX Controller Styling*/
 .controller.xbox {
-    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-asymmetricv3/base.png); 
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/819615698753814618/Dadaxter.png); 
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
 }
 .xbox.disconnected { 
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/808245130803806238/Disconnected.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/819615927918264410/Disconnected.png);
 }
 .xbox.disconnected div {
     display: none;
