@@ -1,0 +1,205 @@
+/*BEGIN THRUSTMASTER XBOX Controller Styling*/
+.controller.xbox {
+    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-asymmetricv3/base.png); 
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox.disconnected { 
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/808245130803806238/Disconnected.png);
+}
+.xbox.disconnected div {
+    display: none;
+}
+ .xbox .triggers{ 
+    position: absolute;
+    background-repeat:no-repeat;
+} 
+.xbox .trigger{
+    height: 889px;
+    width: 1000px;
+
+    background-repeat:no-repeat;
+}
+.xbox .trigger.left{ 
+    height: 889px;
+    width: 1000px;
+    background: url(L2.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+.xbox .trigger.right{
+    height: 889px;
+    width: 1000px;
+    background: url(R2.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+.xbox .bumper{
+opacity: 0;
+}
+.xbox .bumper.pressed{ 
+    opacity: 1;
+}
+.xbox .bumper.right{
+    height: 889px;
+    width: 1000px;
+    background: url(R1.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+.xbox .bumper.left{
+    height: 889px;
+    width: 1000px;
+    background: url(L1.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+.xbox .arrows{
+    position: absolute;
+    width: 205px;
+    height: 19px;
+    top: 250px;
+    left: 291px;
+    background-repeat:no-repeat;
+}
+.xbox .back{ /* share */
+    opacity: 0;
+    position: absolute;
+}
+.xbox .start{ /* options */
+    opacity: 0;
+    position: absolute;
+}
+.xbox .back.pressed{
+    height: 889px;
+    width: 1000px;
+    left: -291px;
+    top: -250px;
+    background: url(Share.png);
+    position: absolute;
+    opacity: 1;
+} 
+.xbox .start.pressed{
+    height: 889px;
+    width: 1000px;
+    left: -291px;
+    top: -250px;
+    background: url(Options.png);
+    opacity: 1;
+}
+.xbox .abxy{
+    position: absolute;
+    background-repeat:no-repeat;
+}
+.xbox .button{
+    position: absolute;
+}
+.xbox .button.pressed{
+    background-position-y: -00px;
+    margin-top: 0px;
+}
+.xbox .a.pressed{ /* X on PS4*/
+    background: url(X.png); 
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox .b.pressed{ /* circle on PS4*/
+    background: url(O.png);
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox .x.pressed{ /* square on PS4*/
+    background: url(S.png); 
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox .y.pressed{ /* Triangle on PS4*/
+    background: url(T.png) ; 
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox .sticks{    
+    left: 299px;
+    top: 500px;
+    position: absolute;
+    background-repeat:no-repeat;
+}
+.xbox .stick.{
+
+    position: absolute;
+}
+.xbox .stick.pressed.left{
+    position: absolute;
+    background: url(L3.png);
+    height: 113px;
+    width: 113px;
+    background-repeat:no-repeat;
+}
+.xbox .stick.pressed.right{
+    position: absolute;
+    background: url(R3.png);
+    height: 113px;
+    width: 113px;
+    background-repeat:no-repeat;
+}
+.xbox .stick.left{
+    position: absolute;
+    background: url(LS.png);
+    height: 113px;
+    width: 113px;
+    background-repeat:no-repeat;
+}
+.xbox .stick.right{
+    position: absolute;
+    background: url(RS.png);
+    left: 297px;
+    height: 113px;
+    width: 113px;
+    background-repeat:no-repeat;
+}
+.xbox .dpad{
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox .face{
+    background: url(dpad.png);
+    position: absolute;
+}
+.xbox .face.right.pressed{
+    background: url(RIGHT.png); 
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox .face.left.pressed{
+    background: url(LEFT.png); 
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox .face.up.pressed{
+    background: url(UP.png); 
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox .face.down.pressed{ 
+    background: url(DOWN.png); 
+    height: 889px;
+    width: 1000px;
+    background-repeat:no-repeat;
+}
+.xbox .touchpad.pressed{
+    position:absolute;
+    height: 889px;
+    width: 1000px;
+
+    background: url(touchpad.png);
+    background-repeat:no-repeat; 
+/*END THRUSTMASTER XBOX Controller Styling*/
