@@ -106,19 +106,19 @@ opacity: 0;
     background-repeat:no-repeat;
 }
 .custom .b.pressed{ /* circle on PS4*/
-    background: url(O.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/827137108174569492/B.png);
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
 }
 .custom .x.pressed{ /* square on PS4*/
-    background: url(S.png); 
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/827137109927133204/X.png); 
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
 }
 .custom .y.pressed{ /* Triangle on PS4*/
-    background: url(T.png) ; 
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/827137111517560842/Y.png) ; 
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
@@ -135,14 +135,14 @@ opacity: 0;
 }
 .custom .stick.pressed.left{
     position: absolute;
-    background: url(L3.png);
+    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-symmetricv3/L3.png);
     height: 113px;
     width: 113px;
     background-repeat:no-repeat;
 }
 .custom .stick.pressed.right{
     position: absolute;
-    background: url(R3.png);
+    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-symmetricv3/R3.png);
     height: 113px;
     width: 113px;
     background-repeat:no-repeat;
