@@ -149,14 +149,14 @@ opacity: 0;
 }
 .custom .stick.left{
     position: absolute;
-    background: url(LS.png);
+    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-symmetricv3/LS.png);
     height: 113px;
     width: 113px;
     background-repeat:no-repeat;
 }
 .custom .stick.right{
     position: absolute;
-    background: url(RS.png);
+    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-symmetricv3/RS.png);
     left: 297px;
     height: 113px;
     width: 113px;
@@ -172,25 +172,25 @@ opacity: 0;
     position: absolute;
 }
 .custom .face.right.pressed{
-    background: url(RIGHT.png); 
+    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-symmetricv3/RIGHT.png); 
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
 }
 .custom .face.left.pressed{
-    background: url(LEFT.png); 
+    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-symmetricv3/LEFT.png); 
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
 }
 .custom .face.up.pressed{
-    background: url(UP.png); 
+    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-symmetricv3/UP.png); 
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
 }
 .custom .face.down.pressed{ 
-    background: url(DOWN.png); 
+    background: url(https://overlay.thrustmaster.com/eswap-ps4-pc-model-symmetricv3/DOWN.png); 
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
