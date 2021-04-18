@@ -56,6 +56,8 @@
 
 .ds4 .bumpers {
     position: absolute;
+    top: 0px;
+    left: 0px;
 }
 
 .ds4 .bumper.pressed {
