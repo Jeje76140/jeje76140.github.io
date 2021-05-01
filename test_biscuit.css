@@ -184,9 +184,9 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/802124308552876062/Start_Select.png);
-    width: 49px;
-    height: 80px;
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/838165815295344720/Start_Select.png);
+    width: 52px;
+    height: 81px;
     opacity: 0;
 }
 
@@ -373,7 +373,7 @@ background-position: 0 -70px;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/802124308037107722/Start.png);
+    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/838165813860237312/Start.png);
 }
 
 .ds4.white .button {
