@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/822480724426489876/Manette.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/844177652268400640/Manette_V2.png);
     height: 1100px;
     width: 1198px;
     /*    margin-left: -375px;
@@ -8,7 +8,7 @@
 }
 
 .xbox.white {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/827074561488584724/Manette_1er.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/844177652268400640/Manette_V2.png);
 }
 
 .xbox.disconnected {
