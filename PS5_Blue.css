@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/802291666739658773/Controller.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/849282496583303218/ControllerV2.png);
     height: 1500px;
     width: 1808px;
     /*    margin-left: -403px;
@@ -26,7 +26,7 @@
 .ds4 .trigger {
     width: 243px;
     height: 100%;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/802291666740052038/Trigger.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/849282494519181372/TriggerV2.png);
     opacity: 0;
 }
 
