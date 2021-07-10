@@ -1,4 +1,4 @@
-.controller.xbox { background: url("https://cdn.discordapp.com/attachments/557305648006823956/863385351387873310/sheesh_XBOX.png"); height: 1500px; width: 1808px; }
+.controller.xbox { background: url("https://cdn.discordapp.com/attachments/557305648006823956/863385351387873310/sheesh_XBOX.png"); height: 1100px; width: 1198px; }
 .xbox .trigger { width: 99px; height: 100%; background: url(""); opacity: 0; }
 .xbox .bumper { width: 99px; height: 23px; background: url("") no-repeat; opacity: 0; }
 .xbox .button { position: absolute; width: 55px; height: 55px; background: url(""); }
