@@ -1,0 +1,15 @@
+.controller.ds4 { background: url("https://cdn.discordapp.com/attachments/557305648006823956/863356719472443402/sheesh.png"); height: 1500px; width: 1808px; }
+.ds4 .trigger { width: 99px; height: 100%; background: url(""); opacity: 0; }
+.ds4 .bumper { width: 99px; height: 23px; background: url("") no-repeat; opacity: 0; }
+.ds4 .button { position: absolute; width: 55px; height: 55px; background: url(""); }
+.ds4 .stick { position: absolute; background: url(""); height: 94px; width: 94px; }
+.ds4 .face { background: url(""); position: absolute; }
+.ds4 .touchpad.pressed {
+    background: url() no-repeat center;
+}
+.ds4 .back, .ds4 .start {
+    background: url();
+    width: 27px;
+    height: 47px;
+    opacity: 0;
+}
