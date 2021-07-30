@@ -1,0 +1,277 @@
+/*BEGIN PS4 Controller Styling*/
+.controller.ds4 {
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585739337941032/ControllerV2.png);
+    height: 1500px;
+    width: 1808px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
+}
+
+.ds4.disconnected {
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/801776618942890054/disconnected.png);
+}
+
+.ds4.disconnected div {
+    display: none;
+}
+
+.ds4 .triggers {
+    width: 486px;
+    height: 228px;
+    position: absolute;
+    left: 218px;
+    top: 36px;
+}
+
+.ds4 .trigger {
+    width: 243px;
+    height: 100%;
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585653291798559/TriggerV2.png);
+    opacity: 0;
+}
+
+.ds4 .trigger.left {
+    float: left;
+}
+
+.ds4 .trigger.right {
+    float: right;
+    position: absolute;
+    left: 1130px;
+    background-position-x: 243px;
+}
+
+.ds4 .bumper {
+    width: 241px;
+    height: 83px;
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585637026267136/Bumper.png) no-repeat;
+    opacity: 0;
+}
+
+.ds4 .bumpers {
+    position: absolute;
+    width: 588px;
+    height: 23px;
+    left: 222px;
+    top: 302px;
+}
+
+.ds4 .bumper.pressed {
+    opacity: 1;
+}
+
+.ds4 .bumper.left {
+    /* -webkit-transform: rotateY(180deg); */
+    /* transform: rotateY(180deg); */
+    float: left;
+}
+
+.ds4 .bumper.right {
+    float: right;
+    position: absolute;
+    left: 1126px;
+    transform: rotateY(180deg);
+}
+
+.ds4 .touchpad {
+    width: 720px;
+    height: 389px;
+    position: absolute;
+    left: 545px;
+    top: 315px;
+}
+
+.ds4 .touchpad.pressed {
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585688331005962/Pad.png) no-repeat center;
+}
+
+.ds4 .meta {
+    width: 174px;
+    height: 147px;
+    position: absolute;
+    left: 818px;
+    bottom: 548px;
+}
+
+.ds4 .meta.pressed {
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585645683318804/Logo.png) no-repeat center;
+}
+
+.ds4 .arrows {
+    position: absolute;
+    width: 352px;
+    height: 46px;
+    top: 142px;
+    left: 227px;
+}
+
+.ds4 .back, .ds4 .start {
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585647663022090/Start_Select.png);
+    width: 49px;
+    height: 80px;
+    opacity: 0;
+}
+
+.ds4 .back.pressed, .ds4 .start.pressed {
+    /* background-position-y: -21px; */
+    /* margin-top: 2px; */
+    opacity: 1;
+}
+
+.ds4 .back {
+    float: left;
+    position: absolute;
+    left: 231px;
+    top: 266px
+    /* width: 28px; */
+}
+
+.ds4 .start {
+    float: right;
+    position: absolute;
+    left: 1076px;
+    top: 266px;
+    /* width: 28px; */
+    background-position: 0px 0;
+}
+
+.ds4 .abxy {
+    position: absolute;
+    width: 466px;
+    height: 118px;
+    top: 719px;
+    left: 508px;
+}
+
+.ds4 .button {
+    position: absolute;
+    width: 118px;
+    height: 118px;
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585639253442631/Button.png);
+}
+
+.ds4 .button.pressed {
+    background-position-y: 118px;
+    /* margin-top: 5px; */
+}
+
+.ds4 .a {
+    background-position: 0px 0px;
+    bottom: -1px;
+    left: 901px;
+}
+
+.ds4 .b {
+    background-position: -116px 0;
+    top: -132px;
+    right: -686px;
+}
+
+.ds4 .x {
+    background-position: -232px 0;
+    top: -132px;
+    right: -421px;
+}
+
+.ds4 .y {
+    background-position: -348px 0;
+    left: 901px;
+    top: -265px;
+}
+
+.ds4 .sticks {
+    position: absolute;
+    width: 361px;
+    height: 105px;
+    top: 608px;
+    left: 228px;
+}
+
+.ds4 .stick {
+    position: absolute;
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585668089303040/Joystick.png);
+    height: 211px;
+    width: 211px;
+}
+
+.ds4 .stick.pressed.left {
+    background-position-x: -211px;
+}
+
+.ds4 .stick.pressed.right {
+    background-position-x: -422px;
+}
+
+.ds4 .stick.left {
+    top: 180px;
+    left: 282px;
+}
+
+.ds4 .stick.right {
+    top: calc(100% - -75px);
+    left: calc(100% - -500px);
+}
+
+.ds4 .dpad {
+    position: absolute;
+    width: 10px;
+    height: 100px;
+    top: 0px;
+    left: 0px;
+}
+
+.ds4 .face {
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870589880034557952/Arrows.png);
+    position: absolute;
+}
+
+.ds4 .face.up, .ds4 .face.down {
+    width: 116px;
+    height: 138px;
+}
+
+.ds4 .face.left, .ds4 .face.right {
+    width: 139px;
+    height: 139px;
+}
+
+.ds4 .face.up {
+    left: 280px;
+    top: 487px;
+    background-position-x: -118px;
+}
+
+.ds4 .face.down {
+    left: 284px;
+    top: 660px;
+    background-position: 0px 0;
+}
+
+.ds4 .face.left {
+    top: 576px;
+    left: 193px;
+    background-position: -250px 0;
+}
+
+.ds4 .face.right {
+    top: 576px;
+    left: 361px;
+    background-position-x: -400px;
+}
+
+.ds4 .face.pressed {
+    /* margin-top: 5px; */
+    background-position-y: 140px;
+}
+
+.ds4.half {
+    margin-top: -300px;
+}
+
+/*END PS4 Controller Styling*/
+
+/*BEGIN PS4 White Controller Styling*/
+.ds4.white .back, .ds4 .start {
+    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/870585646526390272/Start.png);
+
+/*END PS4 White Controller Styling*/
