@@ -77,7 +77,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(ps4-assets/touchpad.svgz) no-repeat center;
+    background: url(https://gamepadviewer.com/ps4-assets/touchpad.svgz) no-repeat center;
 }
 
 .ds4 .meta {
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(ps4-assets/start.svgz);
+    background: url(https://gamepadviewer.com/ps4-assets/start.svgz);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -300,7 +300,7 @@ background-position: 0 -70px;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(ps4-white-assets/start.svgz);
+    background-image: url(https://gamepadviewer.com/ps4-assets/start.svgz);
 }
 
 .ds4.white .button {
