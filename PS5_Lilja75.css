@@ -82,7 +82,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/895609906831429652/Pad.png) no-repeat center;
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/895614647695188008/Pad.png) no-repeat center;
 }
 
 .ds4 .meta {
@@ -127,7 +127,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/895609907825487872/Start_Select.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/895614647309324318/Start_Select.png);
     width: 49px;
     height: 80px;
     opacity: 0;
@@ -168,7 +168,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 118px;
     height: 118px;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/895609902112858112/Button.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/895614643052085268/Button.png);
 }
 
 .ds4 .button.pressed {
@@ -210,7 +210,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/895609905099210792/Joystick.png);
+    background: url(https://cdn.discordapp.com/attachments/557305648006823956/895614645761638421/Joystick.png);
     height: 211px;
     width: 211px;
 }
@@ -313,7 +313,7 @@ background-position: 0 -70px;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/895609906974031902/Start.png);
+    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/895614646671773746/Start.png);
 }
 
 .ds4.white .button {
