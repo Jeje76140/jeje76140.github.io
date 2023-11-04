@@ -247,42 +247,42 @@ background-position: 0 -70px;
 }
 
 .ds4 .face.up, .ds4 .face.down {
-    width: 0px;
-    height: 0px;
+    width: 133px;
+    height: 135px;
 }
 
 .ds4 .face.left, .ds4 .face.right {
-    width: 0px;
-    height: 0px;
+    width: 133px;
+    height: 135px;
 }
 
 .ds4 .face.up {
-    left: 0px;
-    top: 0;
-    background-position: -37px 0px;
+    left: 283px;
+    top: 495px;
+    background-position: -133px 0px;
 }
 
 .ds4 .face.down {
-    left: 0px;
-    bottom: 0;
+    left: 287px;
+    top: 661px;
     background-position: 0px 0;
 }
 
 .ds4 .face.left {
-    top: 0px;
-    left: 0;
-    background-position: 104px 0;
+    top: 590px;
+    left: 195px;
+    background-position: -266px 0;
 }
 
 .ds4 .face.right {
-    top: 0px;
-    right: 0px;
-    background-position: 52px 0;
+    top: 590px;
+    left: 355px;
+    background-position: -399px 0;
 }
 
 .ds4 .face.pressed {
     /* margin-top: 5px; */
-    background-position-y: 52px;
+    background-position-y: 135px;
 }
 
 .ds4.half {
