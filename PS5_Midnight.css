@@ -26,7 +26,7 @@
 .ds4 .trigger {
     width: 243px;
     height: 100%;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/860570965007925258/TriggerV2.png);
+    background: url(PS5_CONTROLLER/Midnight-black/TriggerV2.png);
     opacity: 0;
 }
 
@@ -44,7 +44,7 @@
 .ds4 .bumper {
     width: 241px;
     height: 83px;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/860570943474237440/Bumper.png) no-repeat;
+    background: url(PS5_CONTROLLER/Midnight-black/Bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -82,7 +82,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/860634874598916136/Pad.png) no-repeat center;
+    background: url(PS5_CONTROLLER/Midnight-black/Pad.png) no-repeat center;
 }
 
 .ds4 .meta {
@@ -94,40 +94,11 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/860570957093404722/PS.png) no-repeat center;
-}
-
-/*Not needed, but I like keeping them here for posterity*/
-/*.ds4 .quadrant{
-position: absolute;
-background: url(ps4-assets/player-n.svgz);
-height: 17px;
-width: 111px;
-top: 140px;
-left: 240px;
-}
-.ds4 .p0{
-background-position: 0 -6px;
-}
-.ds4 .p1{
-background-position: 0 -28px;
-}
-.ds4 .p2{
-background-position: 0 -49px;
-}
-.ds4 .p3{
-background-position: 0 -70px;
-}*/
-.ds4 .arrows {
-    position: absolute;
-    width: 352px;
-    height: 46px;
-    top: 142px;
-    left: 227px;
+    background: url(PS5_CONTROLLER/Midnight-black/PS.png) no-repeat center;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/860570962856509440/Start_Select.png);
+    background: url(PS5_CONTROLLER/Midnight-black/Start_Select.png);
     width: 49px;
     height: 80px;
     opacity: 0;
@@ -168,7 +139,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 118px;
     height: 118px;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/860570947554771014/Button.png);
+    background: url(PS5_CONTROLLER/Midnight-black/Button.png);
 }
 
 .ds4 .button.pressed {
@@ -210,7 +181,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/860570964432519208/Joystick.png);
+    background: url(PS5_CONTROLLER/Midnight-black/Joystick.png);
     height: 211px;
     width: 211px;
 }
@@ -313,7 +284,7 @@ background-position: 0 -70px;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/860570959966634024/Start.png);
+    background-image: url(PS5_CONTROLLER/Midnight-black/Start.png);
 }
 
 .ds4.white .button {
