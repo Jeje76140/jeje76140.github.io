@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585739337941032/ControllerV2.png);
+    background: url(PS5_CONTROLLER/Azuma/ControllerV2.png);
     height: 1500px;
     width: 1808px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/801776618942890054/disconnected.png);
+    background: url(PS5_CONTROLLER/disconnected.png);
 }
 
 .ds4.disconnected div {
@@ -26,7 +26,7 @@
 .ds4 .trigger {
     width: 243px;
     height: 100%;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585653291798559/TriggerV2.png);
+    background: url(PS5_CONTROLLER/Azuma/TriggerV2.png);
     opacity: 0;
 }
 
@@ -44,7 +44,7 @@
 .ds4 .bumper {
     width: 241px;
     height: 83px;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585637026267136/Bumper.png) no-repeat;
+    background: url(PS5_CONTROLLER/Azuma/Bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -82,7 +82,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585688331005962/Pad.png) no-repeat center;
+    background: url(PS5_CONTROLLER/Azuma/Pad.png) no-repeat center;
 }
 
 .ds4 .meta {
@@ -94,7 +94,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585645683318804/Logo.png) no-repeat center;
+    background: url(PS5_CONTROLLER/Azuma/Logo.png) no-repeat center;
 }
 
 .ds4 .arrows {
@@ -106,7 +106,7 @@
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585647663022090/Start_Select.png);
+    background: url(PS5_CONTROLLER/Azuma/Start_Select.png);
     width: 49px;
     height: 80px;
     opacity: 0;
@@ -147,7 +147,7 @@
     position: absolute;
     width: 118px;
     height: 118px;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585639253442631/Button.png);
+    background: url(PS5_CONTROLLER/Azuma/Button.png);
 }
 
 .ds4 .button.pressed {
@@ -189,7 +189,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870585668089303040/Joystick.png);
+    background: url(PS5_CONTROLLER/Azuma/Joystick.png);
     height: 211px;
     width: 211px;
 }
@@ -221,7 +221,7 @@
 }
 
 .ds4 .face {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/870589880034557952/Arrows.png);
+    background: url(PS5_CONTROLLER/Azuma/Arrows.png);
     position: absolute;
 }
 
@@ -272,6 +272,6 @@
 
 /*BEGIN PS4 White Controller Styling*/
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/870585646526390272/Start.png);
+    background-image: url(PS5_CONTROLLER/Azuma/Start.png);
 
 /*END PS4 White Controller Styling*/
