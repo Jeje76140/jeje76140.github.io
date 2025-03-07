@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/849282636387975198/ControllerV2.png);
+    background: url(PS5_CONTROLLER/Pink/ControllerV2.png);
     height: 1500px;
     width: 1808px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/801776618942890054/disconnected.png);
+    background: url(PS5_CONTROLLER/disconnected.png);
 }
 
 .ds4.disconnected div {
@@ -26,7 +26,7 @@
 .ds4 .trigger {
     width: 243px;
     height: 100%;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/849282636047974400/TriggerV2.png);
+    background: url(PS5_CONTROLLER/Pink/TriggerV2.png);
     opacity: 0;
 }
 
@@ -44,7 +44,7 @@
 .ds4 .bumper {
     width: 241px;
     height: 83px;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/802089100311658507/Bumper.png) no-repeat;
+    background: url(PS5_CONTROLLER/Pink/Bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -82,7 +82,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/802089107395837962/Pad.png) no-repeat center;
+    background: url(PS5_CONTROLLER/Pink/Pad.png) no-repeat center;
 }
 
 .ds4 .meta {
@@ -94,40 +94,11 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/802089105919180810/PS.png) no-repeat center;
-}
-
-/*Not needed, but I like keeping them here for posterity*/
-/*.ds4 .quadrant{
-position: absolute;
-background: url(ps4-assets/player-n.svgz);
-height: 17px;
-width: 111px;
-top: 140px;
-left: 240px;
-}
-.ds4 .p0{
-background-position: 0 -6px;
-}
-.ds4 .p1{
-background-position: 0 -28px;
-}
-.ds4 .p2{
-background-position: 0 -49px;
-}
-.ds4 .p3{
-background-position: 0 -70px;
-}*/
-.ds4 .arrows {
-    position: absolute;
-    width: 352px;
-    height: 46px;
-    top: 142px;
-    left: 227px;
+    background: url(PS5_CONTROLLER/Pink/PS.png) no-repeat center;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/802089106964348958/Start_Select.png);
+    background: url(PS5_CONTROLLER/Pink/Start_Select.png);
     width: 49px;
     height: 80px;
     opacity: 0;
@@ -168,7 +139,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 118px;
     height: 118px;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/802089101792641065/Button.png);
+    background: url(PS5_CONTROLLER/Pink/Button.png);
 }
 
 .ds4 .button.pressed {
@@ -210,7 +181,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/802089105743020072/Joystick.png);
+    background: url(PS5_CONTROLLER/Pink/Joystick.png);
     height: 211px;
     width: 211px;
 }
@@ -242,47 +213,47 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/1160888851888353341/Arrows.png);
+    background: url(ps4-assets/dpad.svgz);
     position: absolute;
 }
 
 .ds4 .face.up, .ds4 .face.down {
-    width: 116px;
-    height: 138px;
+    width: 0px;
+    height: 0px;
 }
 
 .ds4 .face.left, .ds4 .face.right {
-    width: 139px;
-    height: 139px;
+    width: 0px;
+    height: 0px;
 }
 
 .ds4 .face.up {
-    left: 280px;
-    top: 487px;
-    background-position-x: -118px;
+    left: 0px;
+    top: 0;
+    background-position: -37px 0px;
 }
 
 .ds4 .face.down {
-    left: 284px;
-    top: 660px;
+    left: 0px;
+    bottom: 0;
     background-position: 0px 0;
 }
 
 .ds4 .face.left {
-    top: 576px;
-    left: 193px;
-    background-position: -250px 0;
+    top: 0px;
+    left: 0;
+    background-position: 104px 0;
 }
 
 .ds4 .face.right {
-    top: 576px;
-    left: 361px;
-    background-position-x: -400px;
+    top: 0px;
+    right: 0px;
+    background-position: 52px 0;
 }
 
 .ds4 .face.pressed {
     /* margin-top: 5px; */
-    background-position-y: 140px;
+    background-position-y: 52px;
 }
 
 .ds4.half {
@@ -313,7 +284,7 @@ background-position: 0 -70px;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/802089106971557918/Start.png);
+    background-image: url(PS5_CONTROLLER/Pink/Start.png);
 }
 
 .ds4.white .button {
