@@ -226,42 +226,42 @@
 }
 
 .ds4 .face.up, .ds4 .face.down {
-    width: 0px;
-    height: 0px;
+    width: 116px;
+    height: 138px;
 }
 
 .ds4 .face.left, .ds4 .face.right {
-    width: 0px;
-    height: 0px;
+    width: 139px;
+    height: 139px;
 }
 
 .ds4 .face.up {
-    left: 0px;
-    top: 0;
-    background-position: -37px 0px;
+    left: 280px;
+    top: 487px;
+    background-position-x: -118px;
 }
 
 .ds4 .face.down {
-    left: 0px;
-    bottom: 0;
+    left: 284px;
+    top: 660px;
     background-position: 0px 0;
 }
 
 .ds4 .face.left {
-    top: 0px;
-    left: 0;
-    background-position: 104px 0;
+    top: 576px;
+    left: 193px;
+    background-position: -250px 0;
 }
 
 .ds4 .face.right {
-    top: 0px;
-    right: 0px;
-    background-position: 52px 0;
+    top: 576px;
+    left: 361px;
+    background-position-x: -400px;
 }
 
 .ds4 .face.pressed {
     /* margin-top: 5px; */
-    background-position-y: 52px;
+    background-position-y: 140px;
 }
 
 .ds4.half {
