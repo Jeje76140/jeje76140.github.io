@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/836717148410740766/manette.png);
+    background: url(PS4_CONTROLLER/Akatsuki/manette.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/836713458346098748/tricker.png);
+    background: url(PS4_CONTROLLER/Akatsuki/tricker.png);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/836713452428722176/bumper.png) no-repeat;
+    background: url(PS4_CONTROLLER/Akatsuki/bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -79,7 +79,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/836713455448358912/pad.png) no-repeat center;
+    background: url(PS4_CONTROLLER/Akatsuki/pad.png) no-repeat center;
 }
 
 .ds4 .meta {
@@ -124,7 +124,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/826843843075768350/start-select.png);
+    background: url(PS4_CONTROLLER/Akatsuki/start-select.png);
     width: 27px;
     height: 47px;
     opacity: 0;
@@ -166,7 +166,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/836713453405601843/button.png);
+    background: url(PS4_CONTROLLER/Akatsuki/button.png);
 }
 
 .ds4 .button.pressed {
@@ -206,7 +206,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/826843844208885800/stick.png);
+    background: url(PS4_CONTROLLER/Akatsuki/stick.png);
     height: 94px;
     width: 94px;
 }
@@ -238,7 +238,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://cdn.discordapp.com/attachments/557305648006823956/836713450692018176/arrows.png);
+    background: url(PS4_CONTROLLER/Akatsuki/arrows.png);
     position: absolute;
 }
 
@@ -305,11 +305,11 @@ background-position: 0 -70px;
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/836713455448358912/pad.png);
+    background-image: url(PS4_CONTROLLER/Akatsuki/pad.png);
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://cdn.discordapp.com/attachments/557305648006823956/826843843075768350/start-select.png);
+    background-image: url(PS4_CONTROLLER/Akatsuki/start-select.png);
 }
 
 .ds4.white .button {
