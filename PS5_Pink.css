@@ -97,6 +97,14 @@
     background: url(PS5_CONTROLLER/Pink/PS.png) no-repeat center;
 }
 
+.ds4 .arrows {
+    position: absolute;
+    width: 352px;
+    height: 46px;
+    top: 142px;
+    left: 227px;
+}
+
 .ds4 .back, .ds4 .start {
     background: url(PS5_CONTROLLER/Pink/Start_Select.png);
     width: 49px;
